@@ -1,7 +1,7 @@
 # Proyecto Survey17
 
 Sistema web administrable para la generación de Encuestas.
-Este proyecto fue realizado para la Contraloría General de la Republica. 
+Este proyecto fue realizado para la **Contraloría General de la Republica de Perú**. 
 
 - Laravel 5 como Infraestructura.
 - Base de datos en MySql
