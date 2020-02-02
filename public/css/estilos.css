@@ -1,0 +1,228 @@
+.badge{
+	background-color: #d35400;
+}
+.color-background-wet-asphalt{
+	background-color: #34495e;
+}
+.color-white{
+	color: white;
+}
+
+.col-md-sin-relleno{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+/* bootstrap customize */
+.navbar-default {
+    background-color: #34495e;
+    border-color: #34495e;
+}
+.navbar{
+	border-radius: 0;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.nav-pills > li > a {
+    border-radius: 0px;
+    color: white;
+}
+.nav-pills > li > a:hover{
+	color: black;
+}
+.form-control{
+	border-radius: 0;
+}
+.btn{
+	border-radius: 0;
+}
+.input-group-addon{
+	border-radius: 0;
+}
+
+/*------------------*/
+.subtitle{
+	background-color: #f1c40f;
+    padding: 15px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.aside{
+	padding: 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+    /* height: 200px; */
+    
+    vertical-align: middle;
+    color: #ddd;
+}
+
+.aside>div{
+	font-size: 5em;
+}
+.aside>span{
+	font-size: 1.5em;
+}
+.opciones>.form-group{
+	display: none;
+}
+.btn-custo{
+	width: 100%;
+}
+.table-preguntas>tbody>tr>td{
+	font-size: 0.9em;
+	vertical-align: middle;
+}
+.table-preguntas>tbody>tr:hover{
+	background-color: #f6f6f6;
+	cursor: pointer;
+}
+
+.nav-custo>li>a:hover{
+	background-color: #f1c40f;
+	border-right: 1px solid #34495e;
+}
+.nav-sub-custo{
+	background-color: #2c3e50;
+}
+
+#sub-modulos, #sub-preguntas, #sub-entidades, #sub-configuracion, #sub-encuesta, #sub-usuarios, #sub-secciones{
+	display: none;
+}
+.nav>li>a:focus{
+	background-color: #f1c40f !important;
+	color: black !important;
+	border-right: 1px solid #2c3e50;
+}
+
+.btn-default{
+	border-radius: 0;
+	background-color: #f1c40f;
+	border: 1px solid #f39c12;
+}
+.btn-default:hover{
+	background-color: #f1c40f;
+	border: 1px solid #f1c40f;
+}
+.btn-default:focus{
+	background-color: #f1c40f !important;
+	border: 1px solid #f1c40f !important;
+}
+
+.btn-warning{
+	border-radius: 0;
+	background-color: #34495e;
+	border: 1px solid #2c3e50;
+}
+.btn-warning:hover{
+	background-color: #34495e;
+	border: 1px solid #34495e;
+}
+.btn-warning:focus{
+	background-color: #34495e !important;
+	border: 1px solid #34495e !important;
+}
+
+.btn-group-xs > .btn{
+	border-radius: 0;
+}
+
+.pagination > .active > a{
+	background-color: #34495e;
+}
+.pagination > li:first-child > a, .pagination > li:first-child > span {
+    margin-left: 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+	color: white;
+}
+
+.modal-content{
+	border-radius: 0;
+}
+.modal-header{
+	background-color: #34495e;
+    color: white;
+}
+
+#container {
+  margin-bottom: 50px;
+  width: 100%;
+  height: 8px;
+  position: relative;
+}
+.container_load{
+	margin-bottom: 30px;
+  width: 100%;
+  height: 8px;
+  position: relative;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white !important;
+}
+.navbar-default .navbar-nav > li > a:focus {
+    color: black !important;
+}
+.dropdown-menu{
+	border-radius: 0;
+}
+#load-mp{
+	display: none;
+}
+.dm{
+	height: 315px;
+	overflow-y: auto;
+}
+.list-group{
+	margin-bottom: 0;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.list-group-item:last-child {
+    margin-bottom: 0;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    z-index: 2;
+    color: #000;
+    background-color: #f1c40f;
+    border-color: #f1c40f;
+    font-weight: bold;
+ }
+
+.icon-panel{
+	padding: 3px;
+}
+
+.icon-panel:hover {
+    background-color: rgba(72, 71, 71, 0.27);
+	cursor: pointer;
+}
+
+.panel-panel{
+	height: 286px;
+	margin-bottom: 0;
+	border-radius: 0;
+    -webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, .05);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, .05);
+}
+
+.panel-subpanel{
+
+	margin-bottom: 0;
+	border-radius: 0;
+    -webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, .05);
+    box-shadow: 0 0px 0px rgba(0, 0, 0, .05);
+}
